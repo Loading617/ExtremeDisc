@@ -1,2 +1,2 @@
 # ExtremeDVD
-DVD Burner Android App
+DVD Burner for Android
