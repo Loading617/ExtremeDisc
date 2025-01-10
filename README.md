@@ -1,2 +1,2 @@
 # ExtremeDVD
-DVD Burner for Android
+Cross-Platform DVD Burner 
