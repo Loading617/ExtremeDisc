@@ -1,2 +1,2 @@
-# ExtremeDVD
-Cross-Platform DVD Burner 
+# ExtremeDisc
+Cross-Platform Disc Burner 
